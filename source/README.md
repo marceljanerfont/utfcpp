@@ -1,5 +1,5 @@
 ## Download
-* https://github.com/marceljanerfont/utfcpp
+* https://github.com/marceljanerfont/utfcpp/tree/v3-2-1-custom/source
 * branch: v3-2-1-custom
 
 ## Parent repository
